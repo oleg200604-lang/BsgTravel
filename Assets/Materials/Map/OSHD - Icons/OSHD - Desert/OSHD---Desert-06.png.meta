@@ -1,0 +1,780 @@
+fileFormatVersion: 2
+guid: 1e65fbb3540fe1346ae871cb77df1821
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3406251847727655971
+    second: OSHD---Desert-06_0
+  - first:
+      213: 5676947496124352164
+    second: OSHD---Desert-06_1
+  - first:
+      213: 142299535947603391
+    second: OSHD---Desert-06_2
+  - first:
+      213: 6380304403763785647
+    second: OSHD---Desert-06_3
+  - first:
+      213: 452099696764515468
+    second: OSHD---Desert-06_4
+  - first:
+      213: -2482524467282565808
+    second: OSHD---Desert-06_5
+  - first:
+      213: 5917546500273143455
+    second: OSHD---Desert-06_6
+  - first:
+      213: 8725514661113911368
+    second: OSHD---Desert-06_7
+  - first:
+      213: -7786796086027240981
+    second: OSHD---Desert-06_8
+  - first:
+      213: 4381327956897320757
+    second: OSHD---Desert-06_9
+  - first:
+      213: 2147607742965657680
+    second: OSHD---Desert-06_10
+  - first:
+      213: 4248739163075803032
+    second: OSHD---Desert-06_11
+  - first:
+      213: -1078819186805629989
+    second: OSHD---Desert-06_12
+  - first:
+      213: -796286641256996540
+    second: OSHD---Desert-06_13
+  - first:
+      213: -194191364728244715
+    second: OSHD---Desert-06_14
+  - first:
+      213: 650260469799587999
+    second: OSHD---Desert-06_15
+  - first:
+      213: -6408459845104878245
+    second: OSHD---Desert-06_16
+  - first:
+      213: -504078393505861063
+    second: OSHD---Desert-06_17
+  - first:
+      213: 7438355696662287584
+    second: OSHD---Desert-06_18
+  - first:
+      213: 8589026588648763673
+    second: OSHD---Desert-06_19
+  - first:
+      213: 8539138347341388608
+    second: OSHD---Desert-06_20
+  - first:
+      213: 6375118919414789841
+    second: OSHD---Desert-06_21
+  - first:
+      213: 5965758748076628066
+    second: OSHD---Desert-06_22
+  - first:
+      213: -7502986245209722449
+    second: OSHD---Desert-06_23
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: OSHD---Desert-06_0
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 168
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32c23572200754f20800000000000000
+      internalID: 3406251847727655971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OSHD---Desert-06_1
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 140
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a609038ba198ce40800000000000000
+      internalID: 5676947496124352164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OSHD---Desert-06_2
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 154
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbd1cdb8cac89f100800000000000000
+      internalID: 142299535947603391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OSHD---Desert-06_3
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 158
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: faf63390d056b8850800000000000000
+      internalID: 6380304403763785647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OSHD---Desert-06_4
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 138
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c84f5b4674e264600800000000000000
+      internalID: 452099696764515468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OSHD---Desert-06_5
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 144
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0552865662d4c8dd0800000000000000
+      internalID: -2482524467282565808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OSHD---Desert-06_6
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 135
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9ef2a280395f1250800000000000000
+      internalID: 5917546500273143455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OSHD---Desert-06_7
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 133
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8485822ca51471970800000000000000
+      internalID: 8725514661113911368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OSHD---Desert-06_8
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 121
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be9b1f9473ebfe390800000000000000
+      internalID: -7786796086027240981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OSHD---Desert-06_9
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 109
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53f4a53409a9dcc30800000000000000
+      internalID: 4381327956897320757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OSHD---Desert-06_10
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 107
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 050b85c1dd5ddcd10800000000000000
+      internalID: 2147607742965657680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OSHD---Desert-06_11
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 109
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8977c6e02cd86fa30800000000000000
+      internalID: 4248739163075803032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OSHD---Desert-06_12
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 105
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bdb13995aa34701f0800000000000000
+      internalID: -1078819186805629989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OSHD---Desert-06_13
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 100
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 441ec78c48503f4f0800000000000000
+      internalID: -796286641256996540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OSHD---Desert-06_14
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 96
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 516bcee8bf71e4df0800000000000000
+      internalID: -194191364728244715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OSHD---Desert-06_15
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 86
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9012e9b370360900800000000000000
+      internalID: 650260469799587999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OSHD---Desert-06_16
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 72
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5d3b2f69b39017a0800000000000000
+      internalID: -6408459845104878245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OSHD---Desert-06_17
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 66
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93232203f572109f0800000000000000
+      internalID: -504078393505861063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OSHD---Desert-06_18
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 73
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e41f8498195a3760800000000000000
+      internalID: 7438355696662287584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OSHD---Desert-06_19
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 54
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9117bcefc2a523770800000000000000
+      internalID: 8589026588648763673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OSHD---Desert-06_20
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 57
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04b1339a51d118670800000000000000
+      internalID: 8539138347341388608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OSHD---Desert-06_21
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 38
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d6379061e8f87850800000000000000
+      internalID: 6375118919414789841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OSHD---Desert-06_22
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 42
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26859c239f1aac250800000000000000
+      internalID: 5965758748076628066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OSHD---Desert-06_23
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 29
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa1f1a333c900e790800000000000000
+      internalID: -7502986245209722449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      OSHD---Desert-06_0: 3406251847727655971
+      OSHD---Desert-06_1: 5676947496124352164
+      OSHD---Desert-06_10: 2147607742965657680
+      OSHD---Desert-06_11: 4248739163075803032
+      OSHD---Desert-06_12: -1078819186805629989
+      OSHD---Desert-06_13: -796286641256996540
+      OSHD---Desert-06_14: -194191364728244715
+      OSHD---Desert-06_15: 650260469799587999
+      OSHD---Desert-06_16: -6408459845104878245
+      OSHD---Desert-06_17: -504078393505861063
+      OSHD---Desert-06_18: 7438355696662287584
+      OSHD---Desert-06_19: 8589026588648763673
+      OSHD---Desert-06_2: 142299535947603391
+      OSHD---Desert-06_20: 8539138347341388608
+      OSHD---Desert-06_21: 6375118919414789841
+      OSHD---Desert-06_22: 5965758748076628066
+      OSHD---Desert-06_23: -7502986245209722449
+      OSHD---Desert-06_3: 6380304403763785647
+      OSHD---Desert-06_4: 452099696764515468
+      OSHD---Desert-06_5: -2482524467282565808
+      OSHD---Desert-06_6: 5917546500273143455
+      OSHD---Desert-06_7: 8725514661113911368
+      OSHD---Desert-06_8: -7786796086027240981
+      OSHD---Desert-06_9: 4381327956897320757
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

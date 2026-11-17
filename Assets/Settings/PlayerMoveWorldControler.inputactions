@@ -1,0 +1,65 @@
+{
+    "version": 1,
+    "name": "PlayerMoveWorldControler",
+    "maps": [
+        {
+            "name": "New action map",
+            "id": "080d5569-4cd5-47a6-b310-34da4ef9c8c6",
+            "actions": [
+                {
+                    "name": "Move",
+                    "type": "Button",
+                    "id": "18a3a9a9-642f-4ce0-965b-079da795cde1",
+                    "expectedControlType": "",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false,
+                    "priority": 0
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "85c681e5-94d7-4c8d-b391-fa76778305d3",
+                    "path": "",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Move",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
+        },
+        {
+            "name": "ew action map1",
+            "id": "0b213d6e-11a0-4404-a48b-95df6046c3a1",
+            "actions": [
+                {
+                    "name": "New action",
+                    "type": "Button",
+                    "id": "a6ee06a4-0cdf-46d5-89b2-9fee6d4f058a",
+                    "expectedControlType": "",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false,
+                    "priority": 0
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "e04f7b16-c94b-4ff9-b843-fa9e72ec8f6b",
+                    "path": "",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "New action",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
+        }
+    ],
+    "controlSchemes": []
+}
